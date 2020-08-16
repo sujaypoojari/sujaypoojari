@@ -25,9 +25,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+
+
 ### My github Stats!!
 
-<br>
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sujaypoojari&show_icons=true&theme=radical&line_height=27">
