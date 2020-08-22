@@ -3,7 +3,7 @@
 
 - ✨I am an aspiring techie who is passionate about technology and website building✨
 - ⚡I have huge passion and motivation to learn and discover new opportunities⚡
-- 🎇 I’m currently learning React.js 🎇
+- 🎇 I’m currently learning React.js & Node.js 🎇
 
 ### Connect with me:
 
